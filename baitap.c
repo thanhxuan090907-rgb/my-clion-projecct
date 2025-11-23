@@ -1,5 +1,8 @@
-//
-// Created by MARIA-LINH on 11/23/2025.
-//
+#include <stdio.h>
+int main() {
+    for (int i = 1; i <= 15; i++) {
+        printf ("%d\n", i);
 
-#include "baitap.h"
+    }
+    return 0;
+}
