@@ -1,7 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-
 int main () {
     int so_bi_mat;
     int so_doan = 0;
